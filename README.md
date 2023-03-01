@@ -14,3 +14,6 @@ Inflearn - 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
 - Servlet 실행 ( 요청과 응답 확인 ) 
 
 ```commit``` : [c15607b](https://github.com/meoldae/Spring_MVC-1/commit/c15607b1ac09d0c9efc879e815ba3ca55650d00a)
+- HttpServletRequest를 통한 Http 메시지 헤더 정보 조회
+
+```commit``` : [97db5e8](https://github.com/meoldae/Spring_MVC-1/commit/97db5e89473c3228ab5bfb7906903a268484a021)
