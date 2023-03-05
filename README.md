@@ -26,3 +26,17 @@ Inflearn - 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
 - HTTP Response 메시지 (HTML, JSON)
 
 ```commit``` : [562af88](https://github.com/meoldae/Spring_MVC-1/commit/562af8855f50149224c2830ea3e6f09e3f8d8bd6), [5789c26](https://github.com/meoldae/Spring_MVC-1/commit/5789c26d71e39919dff0e9da9e987c0cfe1ee768)
+
+## 0x02. 서블릿, JSP 그리고 MVC 패턴
+- 회원 도메인 생성
+
+```commit``` : [7701de4](https://github.com/meoldae/Spring_MVC-1/commit/7701de460defe17d39a55a919702e370a02f6abc)
+- 서블릿을 통한 동적 페이지 생성
+
+```commit``` : [f806f04](https://github.com/meoldae/Spring_MVC-1/commit/f806f04997d09d2242eb7665a8efc443980c42e8)
+- JSP를 통한 동적 페이지 생성 (템플릿 엔진)
+
+```commit``` : [78ee32e](https://github.com/meoldae/Spring_MVC-1/commit/78ee32e4b50cb5edcdea0e5421a71ea75919cbb3)
+- 서블릿(Controller)과 JSP(View)에 MVC 패턴 적용
+
+```commit``` : [9c3f505](https://github.com/meoldae/Spring_MVC-1/commit/9c3f505dc62b55e5a2f0f08009e598e59ff35d0d)
