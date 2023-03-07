@@ -40,3 +40,14 @@ Inflearn - 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
 - 서블릿(Controller)과 JSP(View)에 MVC 패턴 적용
 
 ```commit``` : [9c3f505](https://github.com/meoldae/Spring_MVC-1/commit/9c3f505dc62b55e5a2f0f08009e598e59ff35d0d)
+
+## 0x03. MVC 프레임워크 제작
+- 프론트 컨트롤러 도입
+
+```commit``` : [0958db7](https://github.com/meoldae/Spring_MVC-1/commit/0958db7d63483b6e1a44880e735d6abe42b4f2cb)
+- View 분리 
+
+```commit``` : [b8d339e](https://github.com/meoldae/Spring_MVC-1/commit/b8d339e6fcab048e3ccedd9b12aa9cff2d81cc36)
+- Controller에서 Http Message 종속성(의존성) 제거 / 공통 URL 모두 추출
+
+```commit``` : [656cea1](https://github.com/meoldae/Spring_MVC-1/commit/656cea11d4261753f7b4331ae7927c5a8c497469)
