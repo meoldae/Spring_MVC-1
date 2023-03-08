@@ -51,3 +51,9 @@ Inflearn - 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
 - Controller에서 Http Message 종속성(의존성) 제거 / 공통 URL 모두 추출
 
 ```commit``` : [656cea1](https://github.com/meoldae/Spring_MVC-1/commit/656cea11d4261753f7b4331ae7927c5a8c497469)
+- FrontController에서 직접 Model 제공 
+
+```commit``` : [963371d](https://github.com/meoldae/Spring_MVC-1/commit/963371d9ce27b4ff7d2f07fb61ba867f8567881b)
+- Adapter Pattern을 통한 유연한 컨트롤러의 사용
+
+```commit``` : [9f694da](https://github.com/meoldae/Spring_MVC-1/commit/9f694da1d9bf8b0c9b2458b8ca6ed0c7f011e2d1), [fdb2e2f](https://github.com/meoldae/Spring_MVC-1/commit/fdb2e2f6ea5615b8c099259693c9a3839ee811ba)
