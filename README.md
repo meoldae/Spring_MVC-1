@@ -57,3 +57,50 @@ Inflearn - 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
 - Adapter Pattern을 통한 유연한 컨트롤러의 사용
 
 ```commit``` : [9f694da](https://github.com/meoldae/Spring_MVC-1/commit/9f694da1d9bf8b0c9b2458b8ca6ed0c7f011e2d1), [fdb2e2f](https://github.com/meoldae/Spring_MVC-1/commit/fdb2e2f6ea5615b8c099259693c9a3839ee811ba)
+
+## 0x04. Spring MVC 구조 이해
+- 전체 구조 이해
+
+```commit``` : [af4535e](https://github.com/meoldae/Spring_MVC-1/commit/af4535ef0c1c92c3b0fbf89f44b270cf00ff35b6)
+- 뷰 리졸버 View Resolver
+
+```commit``` : [ded6324](https://github.com/meoldae/Spring_MVC-1/commit/ded6324c25d843c40118506ab69a54bd97c38e96)
+- @Controller와 @RequestMapping을 통한 Controller 통합, 공통 URL 추출
+
+```commit``` : [4f7744e](https://github.com/meoldae/Spring_MVC-1/commit/4f7744e98a4e479d18c166a61b365c01c6822897)
+- Spring MVC 실무 방식의 Controller 사용
+
+```commit``` : [ff4d9c5](https://github.com/meoldae/Spring_MVC-1/commit/ff4d9c5d6aa8b27c368423230d9546018532b02c)
+
+## 0x05. Spring MVC 기본 기능
+- Logging : Slf4j
+
+```commit``` : [41ba6cf](https://github.com/meoldae/Spring_MVC-1/commit/41ba6cff34ba6656261132fc0130493efe6df3d1)
+- @RequestMapping 의 여러 방법 (다중 매핑, 파라미터 매핑, 헤더 매핑 등)
+
+```commit``` : [44b82e5](https://github.com/meoldae/Spring_MVC-1/commit/44b82e579470ced82205c3392d35540fed77ff53)
+- API방식의 @RequestMapping 
+
+```commit``` : [076639f](https://github.com/meoldae/Spring_MVC-1/commit/076639fd145014d25af59baf8edc108dce0b6238)
+- Http Request Header 조회 
+
+```commit``` : [71e0ee3](https://github.com/meoldae/Spring_MVC-1/commit/71e0ee3b101e783bd1e7a9497ecef653151ba1b8)
+- Http Request Parameter 조회 - 쿼리 파라미터와 HTML Form
+
+```commit``` : [8a3e0b7](https://github.com/meoldae/Spring_MVC-1/commit/8a3e0b70bc1bc19bd08331a7c009f0ee412a0986)
+- @RequestParam 을 통한 다양한 조회 방법
+
+```commit``` : [974e7d2](https://github.com/meoldae/Spring_MVC-1/commit/974e7d213b1d8fec4e28564db67b7213768efd29)
+- @ModelAttribute 를 통해 파라미터를 객체로 바로 읽어오기
+
+```commit``` : [8e8d60e](https://github.com/meoldae/Spring_MVC-1/commit/8e8d60e448482f4eb061406de0f10156292fafb3)
+- Http Request Body 읽기 - Plain Text
+
+```commit``` : [7d1c730](https://github.com/meoldae/Spring_MVC-1/commit/7d1c730ad9d9490fe7bc94b76785bcbe2600bc6d)
+- Http Request Body 읽기 - JSON (Http Converter 이용)
+
+```commit``` : [dea494c](https://github.com/meoldae/Spring_MVC-1/commit/dea494c98567ca7e2c086a5e66ffefa7e1cb44f7)
+- 정적 리소스와 View 템플릿(동적 리소스)
+
+```commit``` : [4074be6](https://github.com/meoldae/Spring_MVC-1/commit/4074be6ba063d775f57fa2638ddc22223ab6cb95)
+
