@@ -107,4 +107,4 @@ Inflearn - 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
 
 ```commit``` : [e1b39f7](https://github.com/meoldae/Spring_MVC-1/commit/e1b39f7e14707fa27573cb1afffc32ed72f89d3d)
 - Http Message Converter
-- Request / Handler / Controller / Response 의 
+- Request,Handler,Controller,Response 흐름
