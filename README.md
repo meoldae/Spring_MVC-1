@@ -108,3 +108,17 @@ Inflearn - 스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술
 ```commit``` : [e1b39f7](https://github.com/meoldae/Spring_MVC-1/commit/e1b39f7e14707fa27573cb1afffc32ed72f89d3d)
 - Http Message Converter
 - Request,Handler,Controller,Response 흐름
+
+## 0x06. 스프링 MVC를 통한 웹 페이지 만들기
+- 프로젝트 및 도메인 생성
+
+```commit``` : [30ad1e7](https://github.com/meoldae/Spring_MVC-1/commit/30ad1e71e7c54e74e3eddd54b2d1574d99ce8b03), [e675561](https://github.com/meoldae/Spring_MVC-1/commit/e675561a8c65c3ac17a3dd30e3704b86c13097e9)
+- 상품 등록 컨트롤러와 @ModelAttribute
+
+```commit``` : [d49aee0](https://github.com/meoldae/Spring_MVC-1/commit/d49aee03070dcdebe07abf066b17db3ac682399b)
+- PRG (Post > Redirect > Get) 
+
+```commit``` : [5d1eb4a](https://github.com/meoldae/Spring_MVC-1/commit/5d1eb4afb574dccf3e5ccde9ce18eaa1807e7304)
+- RedirctAttributes
+
+```commit``` : [23549f2](https://github.com/meoldae/Spring_MVC-1/commit/23549f2b53291e28c15eb4862b176a04883c129e)
